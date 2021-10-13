@@ -6,7 +6,7 @@ Arraylist:BlurStärke:d:1000.0
 Arraylist:ArrayColor:o:GREEN
 Arraylist:Fonts:o:Novoline
 Speed:Minepex-Motion:d:60.0
-Speed:Modes:o:Minemora
+Speed:Modes:o:Vanilla
 GUI:Modes:o:DropDown
 AntiVoid:Modes:o:Intave
 Killaura:RedColoring:b:false
