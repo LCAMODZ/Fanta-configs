@@ -111,7 +111,7 @@ Killaura:EntityStrafe:b:false
 Killaura:TargetHUD:b:false
 Killaura:LegitRange:b:true
 Killaura:Multy:b:false
-Killaura:KeepSprint:b:false
+Killaura:KeepSprint:b:true
 Killaura:1.12 Hit:b:false
 Killaura:Range:d:3.7125
 Killaura:PreAimRange:d:0.0
