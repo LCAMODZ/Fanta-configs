@@ -154,7 +154,7 @@ Speed:DamageBoost:b:true
 Speed:Timer:b:false
 Speed:Minepex-Motion:d:60.0
 Speed:Boost:d:0.827906976744186
-Speed:Modes:o:Vanilla
+Speed:Modes:o:Intave
 Spider:state:toggled:false
 Spider:SpiderMode:o:AntiAC
 Phase:state:toggled:false
