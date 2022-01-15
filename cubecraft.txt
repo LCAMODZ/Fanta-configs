@@ -32,7 +32,7 @@ Spammer:SpammerMode:o:Intave
 Spammer:Delay:d:1000.0
 Longjump:state:toggled:false
 Longjump:Boost:b:false
-Longjump:LongjumpMode:o:Verus
+Longjump:LongjumpMode:o:Cubecraft
 BlockESP:state:toggled:false
 Crosshair:state:toggled:true
 China Hat:state:toggled:false
@@ -58,7 +58,7 @@ TestAura:SilentMoveFix:b:false
 TestAura:GCD-Fix:b:true
 TestAura:BestHitVec:b:false
 TestAura:ABS-GCD-Fix:b:false
-TestAura:JumpFix:b:true
+TestAura:JumpFix:b:false
 TestAura:KeepSprint:b:false
 TestAura:Autoblock:b:false
 TestAura:NewPVPSystem:b:true
