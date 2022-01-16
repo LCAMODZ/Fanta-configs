@@ -22,7 +22,7 @@ NameTags:state:toggled:true
 RamClean:state:toggled:false
 InvCleaner:state:toggled:true
 InvCleaner:OpenInv:b:true
-InvCleaner:Delay:d:200.8
+InvCleaner:Delay:d:250.8
 FastBreak:state:toggled:false
 FakeBlock:state:toggled:false
 Notification:state:toggled:true
@@ -72,7 +72,7 @@ TestAura:AttackType:o:Packet
 TestAura:AutoBlock:o:Intave
 TestAura:Modes:o:Nearest
 TestAura:TargetHUDM:o:Fanta
-AutoTool:state:toggled:true
+AutoTool:state:toggled:false
 TrailESP:state:toggled:false
 BindHUD:state:toggled:false
 InvMove:state:toggled:false
