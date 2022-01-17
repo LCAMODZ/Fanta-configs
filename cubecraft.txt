@@ -118,7 +118,7 @@ Fucker:Range:d:4.5
 Fucker:Rotations:b:true
 Fucker:NoSwing:b:false
 Stealer:state:toggled:false
-Stealer:Delay:d:187.5
+Stealer:Delay:d:220
 GuiBlur:state:toggled:true
 Killaura:state:toggled:false
 Killaura:RedColoring:b:true
