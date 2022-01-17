@@ -162,7 +162,7 @@ BindHUD:state:toggled:false
 TpAura:state:toggled:false
 TpAura:Delay:d:50.0
 Stealer:state:toggled:true
-Stealer:Delay:d:106.25
+Stealer:Delay:d:25
 HitSlow:state:toggled:true
 Fucker:state:toggled:false
 Fucker:Delay:d:682.7
