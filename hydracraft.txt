@@ -25,7 +25,7 @@ TestAura:Speed1:d:180.0
 TestAura:MoveFix:b:false
 TestAura:SilentMoveFix:b:false
 TestAura:GCD-Fix:b:true
-TestAura:BestHitVec:b:true
+TestAura:BestHitVec:b:false
 TestAura:ABS-GCD-Fix:b:false
 TestAura:JumpFix:b:true
 TestAura:KeepSprint:b:true
