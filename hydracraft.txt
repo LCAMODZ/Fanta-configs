@@ -35,7 +35,7 @@ TestAura:Antibot:b:true
 TestAura:Raytrace:b:true
 TestAura:Intave14Fix:b:true
 TestAura:TargetHUD:b:false
-TestAura:Rotations:b:true
+TestAura:Rotations:b:false
 TestAura:ThroughWalls:b:true
 TestAura:AttackType:o:Packet
 TestAura:AutoBlock:o:Intave
