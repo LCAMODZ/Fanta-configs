@@ -11,11 +11,12 @@ TargetStrafe:Range:d:3.12375
 MotionGraph:state:toggled:false
 FullAntiVerus:state:toggled:false
 2D-Tracers:state:toggled:false
+ItemPhysics:state:toggled:true
 InvManager:state:toggled:true
 InvManager:PrevSwords:b:true
 InvManager:OpenInv:b:true
 InvManager:FakeInv:b:false
-InvManager:Delay:d:200.8
+InvManager:Delay:d:238.2625
 AutoArmor:state:toggled:false
 AutoArmor:Delay:d:1.0
 NameTags:state:toggled:true
@@ -25,7 +26,7 @@ FakeBlock:state:toggled:false
 RamClean:state:toggled:false
 InvCleaner:state:toggled:true
 InvCleaner:OpenInv:b:true
-InvCleaner:Delay:d:250.8
+InvCleaner:Delay:d:288.2125
 Chestaura:state:toggled:false
 Spammer:state:toggled:false
 Spammer:SpammerMode:o:Intave
@@ -36,7 +37,8 @@ Longjump:LongjumpMode:o:Cubecraft
 BlockESP:state:toggled:false
 Crosshair:state:toggled:true
 China Hat:state:toggled:false
-TestAura:state:toggled:true
+Chestesp:state:toggled:true
+TestAura:state:toggled:false
 TestAura:Range:d:3.8000000000000003
 TestAura:PreAimRange:d:0.0
 TestAura:CPS-Max:d:16.5
@@ -55,10 +57,10 @@ TestAura:Speed1:d:180.0
 TestAura:MoveFix:b:false
 TestAura:SilentMoveFix:b:false
 TestAura:GCD-Fix:b:true
-TestAura:BestHitVec:b:true
+TestAura:BestHitVec:b:false
 TestAura:ABS-GCD-Fix:b:false
 TestAura:JumpFix:b:false
-TestAura:KeepSprint:b:false
+TestAura:KeepSprint:b:true
 TestAura:Autoblock:b:false
 TestAura:NewPVPSystem:b:true
 TestAura:Antibot:b:false
@@ -71,7 +73,6 @@ TestAura:AttackType:o:Packet
 TestAura:AutoBlock:o:Intave
 TestAura:Modes:o:Nearest
 TestAura:TargetHUDM:o:Fanta
-Chestesp:state:toggled:true
 AutoTool:state:toggled:false
 BindHUD:state:toggled:false
 InvMove:state:toggled:false
@@ -90,18 +91,18 @@ Scaffold:CubecraftTower:b:false
 Scaffold:NoAttack:b:false
 Scaffold:OnlyAirPlace:b:true
 Scaffold:MoveAbleTower:b:false
-Themes:state:toggled:true
 TrailESP:state:toggled:false
 Teleport:state:toggled:false
 FastUse:state:toggled:false
 FastUse:Packets:d:1.3372093023255813
+Themes:state:toggled:true
+AntiChat:state:toggled:false
 Arraylist:state:toggled:true
 BlockHit:state:toggled:false
-AntiChat:state:toggled:false
-NoWeb:state:toggled:false
-NoWeb:Modes:o:AAC 3.3.13
 Disabler:state:toggled:false
 Disabler:Modes:o:VerusSemi
+NoWeb:state:toggled:false
+NoWeb:Modes:o:AAC 3.3.13
 AntiVoid:state:toggled:true
 AntiVoid:Modes:o:Watchdog
 Velocity:state:toggled:true
@@ -116,7 +117,7 @@ Fucker:Delay:d:524.1511627906978
 Fucker:Range:d:4.5
 Fucker:Rotations:b:true
 Fucker:NoSwing:b:false
-Stealer:state:toggled:true
+Stealer:state:toggled:false
 Stealer:Delay:d:187.5
 GuiBlur:state:toggled:true
 Killaura:state:toggled:false
@@ -143,12 +144,12 @@ Killaura:RotationMode:o:AAC
 Killaura:TargetHUDMode:o:Fanta
 Killaura:TargetHUDColor:o:DARK
 Nofov:state:toggled:false
-Tabgui:state:toggled:true
+Strafe:state:toggled:true
 Regen:state:toggled:false
 Regen:Modes:o:Intave
-Strafe:state:toggled:true
+Tabgui:state:toggled:true
 Sound:state:toggled:false
-Speed:state:toggled:true
+Speed:state:toggled:false
 Speed:Hover:b:false
 Speed:DamageBoost:b:true
 Speed:Timer:b:false
@@ -161,9 +162,9 @@ Phase:state:toggled:false
 Radar:state:toggled:false
 Jesus:state:toggled:false
 Jesus:Modes:o:Verus
+Sprint:state:toggled:true
 Nofall:state:toggled:false
 Nofall:Modes:o:Verus
-Sprint:state:toggled:true
 Flight:state:toggled:false
 Flight:Bobbing:b:true
 Flight:MineplexFast:b:false
