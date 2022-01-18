@@ -29,7 +29,7 @@ TestAura:BestHitVec:b:true
 TestAura:ABS-GCD-Fix:b:false
 TestAura:JumpFix:b:true
 TestAura:KeepSprint:b:true
-TestAura:Autoblock:b:true
+TestAura:Autoblock:b:false
 TestAura:NewPVPSystem:b:false
 TestAura:Antibot:b:true
 TestAura:Raytrace:b:true
