@@ -79,7 +79,7 @@ Killaura:Modes:o:Nearest
 Killaura:RotationMode:o:AAC
 Killaura:TargetHUDMode:o:Fanta
 Killaura:TargetHUDColor:o:DARK
-Tabgui:state:toggled:true
+Tabgui:state:toggled:false
 GUI:state:toggled:false
 Flight:state:toggled:false
 Flight:Bobbing:b:true
