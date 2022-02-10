@@ -175,7 +175,7 @@ Scaffold:OnlyAirPlace:b:true
 Scaffold:MoveAbleTower:b:false
 Scaffold:YawPosition:d:0.0
 AntiChat:state:toggled:false
-Criticals:state:toggled:true
+Criticals:state:toggled:false
 TpAura:state:toggled:false
 TpAura:Delay:d:50.0
 GuiBlur:state:toggled:true
