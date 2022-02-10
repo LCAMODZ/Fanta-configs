@@ -1,4 +1,4 @@
-TargetStrafe:state:toggled:true
+TargetStrafe:state:toggled:false
 TargetStrafe:Watchdog:b:false
 TargetStrafe:Circle:b:false
 TargetStrafe:NoVoid:b:false
@@ -148,9 +148,10 @@ Scaffold:Swing:b:true
 Scaffold:Sprint:b:false
 Scaffold:Matrix:b:false
 Scaffold:NCP:b:false
-Scaffold:Cubecraft:b:true
+Scaffold:Cubecraft:b:false
 Scaffold:AAC:b:false
 Scaffold:TP:b:false
+Scaffold:LegitPlace:b:true
 Scaffold:NCPTower:b:false
 Scaffold:CubecraftTower:b:false
 Scaffold:NoAttack:b:false
