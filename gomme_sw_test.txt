@@ -81,7 +81,7 @@ AntiVoid:state:toggled:false
 AntiVoid:Modes:o:Stuck
 Themes:state:toggled:true
 CustomHotbar:state:toggled:true
-Velocity:state:toggled:true
+Velocity:state:toggled:false
 Velocity:Modes:o:Legit
 Regen:state:toggled:false
 Regen:Modes:o:Intave
