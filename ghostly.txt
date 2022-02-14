@@ -43,7 +43,7 @@ TestAura:Rotations:b:true
 TestAura:ThroughWalls:b:true
 TestAura:Gomme:b:false
 TestAura:AutoReduce:b:false
-TestAura:AttackType:o:Legit
+TestAura:AttackType:o:Packet
 TestAura:AutoBlock:o:Tick
 TestAura:Modes:o:Nearest
 TestAura:TargetHUDM:o:Blur
