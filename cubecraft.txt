@@ -13,7 +13,7 @@ NoWeb:Modes:o:AAC 3.3.13
 AntiVoid:state:toggled:false
 AntiVoid:Modes:o:Watchdog
 Velocity:state:toggled:true
-Velocity:Modes:o:Cubecraft
+Velocity:Modes:o:Null
 TestAura:state:toggled:true
 TestAura:Range:d:3.8000000000000003
 TestAura:PreAimRange:d:0.0
