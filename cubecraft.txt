@@ -6,9 +6,9 @@ TargetStrafe:RainbowCircle:b:true
 TargetStrafe:StrafeMode:o:Normal
 TargetStrafe:Range:d:3.64
 NoWeb:state:toggled:false
-NoWeb:Modes:o:AAC 3.3.13
+NoWeb:Modes:o:ConfigMadeByReave
 Disabler:state:toggled:false
-Disabler:Modes:o:VerusSemi
+Disabler:Modes:o:ConfigMadeByReave
 AntiVoid:state:toggled:false
 AntiVoid:Modes:o:Watchdog
 Criticals:state:toggled:false
@@ -68,7 +68,7 @@ Speed:DamageBoost:b:true
 Speed:Timer:b:false
 Speed:Minepex-Motion:d:60.0
 Speed:Boost:d:0.827906976744186
-Speed:Modes:o:Cubecraft
+Speed:Modes:o:ConfigMadeByReave
 Arraylist:state:toggled:false
 SimpleMainMenu:state:toggled:true
 Tabgui:state:toggled:false
