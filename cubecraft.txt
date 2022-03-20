@@ -5,16 +5,15 @@ TargetStrafe:NoVoid:b:false
 TargetStrafe:RainbowCircle:b:true
 TargetStrafe:StrafeMode:o:Normal
 TargetStrafe:Range:d:3.64
-NoWeb:state:toggled:false
-NoWeb:Modes:o:ConfigMadeByReave
 Disabler:state:toggled:false
-Disabler:Modes:o:ConfigMadeByReave
+Disabler:Modes:o:VerusSemi
+NoWeb:state:toggled:false
+NoWeb:Modes:o:AAC 3.3.13
 AntiVoid:state:toggled:false
 AntiVoid:Modes:o:Watchdog
 Criticals:state:toggled:false
 Criticals:critsMode:o:Watchdog
-Themes:state:toggled:false
-TestAura:state:toggled:true
+TestAura:state:toggled:false
 TestAura:Range:d:3.8000000000000003
 TestAura:PreAimRange:d:0.0
 TestAura:CPS-Max:d:16.5
@@ -67,9 +66,11 @@ Speed:Hover:b:false
 Speed:DamageBoost:b:true
 Speed:Timer:b:false
 Speed:Minepex-Motion:d:60.0
+Speed:VanillaSpeed:d:1.0
 Speed:Boost:d:0.827906976744186
-Speed:Modes:o:ConfigMadeByReave
+Speed:Modes:o:Cubecraft
 Arraylist:state:toggled:false
+Themes:state:toggled:false
 SimpleMainMenu:state:toggled:true
 Tabgui:state:toggled:false
 Killaura:state:toggled:false
@@ -98,8 +99,9 @@ Killaura:TargetHUDColor:o:DARK
 GUI:state:toggled:false
 Flight:state:toggled:false
 Flight:Bobbing:b:true
-Flight:MineplexFast:b:false
+Flight:WatchdogBoost:b:true
 Flight:Modes:o:Mineplex
+Flight:WatchdogSpeed:d:2.5
 Flight:MotionSpeed:d:3.0
 Flight:VerusSpeed:d:0.8418604651162791
 Flight:LuckySpeed:d:9.0
