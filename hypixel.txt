@@ -7,7 +7,7 @@ TargetStrafe:StrafeMode:o:JumpOnly
 TargetStrafe:Range:d:3.12375
 HUD:state:toggled:true
 Criticals:state:toggled:true
-Criticals:critsMode:o:Watchdog2
+Criticals:critsMode:o:Watchdog
 AntiVoid:state:toggled:false
 AntiVoid:Modes:o:Watchdog
 Disabler:state:toggled:false
