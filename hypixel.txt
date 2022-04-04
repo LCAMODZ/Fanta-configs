@@ -212,7 +212,7 @@ Scaffold:NoAttack:b:true
 Scaffold:OnlyAirPlace:b:true
 Scaffold:MoveAbleTower:b:false
 Scaffold:Expanded:d:15.25
-Scaffold:TimerSpeed:d:2.25
+Scaffold:TimerSpeed:d:1
 Scaffold:YawPosition:d:180.0
 AntiChat:state:toggled:false
 TpAura:state:toggled:false
