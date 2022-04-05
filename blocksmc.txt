@@ -12,7 +12,7 @@ Criticals:state:toggled:false
 Criticals:critsMode:o:Watchdog
 MainMenu:state:toggled:true
 TestAura:state:toggled:false
-TestAura:Range:d:5.9875
+TestAura:Range:d:3.34
 TestAura:PreAimRange:d:0.0
 TestAura:CPS-Max:d:17.1
 TestAura:CPS-Min:d:14.7
@@ -148,7 +148,7 @@ Speed:Minepex-Motion:d:60.0
 Speed:VanillaSpeed:d:0.84375
 Speed:WatchdogSpeed:d:1.5
 Speed:Boost:d:1.0
-Speed:Modes:o:TP
+Speed:Modes:o:Vanilla
 NameTags:state:toggled:true
 Notification:state:toggled:false
 InvCleaner:state:toggled:true
